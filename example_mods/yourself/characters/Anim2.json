@@ -18,13 +18,13 @@
 			],
 			"indices": [],
 			"fps": 31,
-			"anim": "a",
+			"anim": "a2",
 			"loop": false,
 			"name": "HSLookalikeDialogue0"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/HSLookalikeDialogue1",
+	"image": "characters/HSLookalikeDialogue2",
 	"position": [
 		160,
 		-50
